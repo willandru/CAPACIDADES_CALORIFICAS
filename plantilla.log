@@ -1,0 +1,437 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2021.10.3)  14 OCT 2021 12:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**plantilla.tex
+(./plantilla.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+(/usr/share/texlive/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpdimenC=\dimen140
+\@IEEEtrantmpcountA=\count177
+\@IEEEtrantmpcountB=\count178
+\@IEEEtrantmpcountC=\count179
+\@IEEEtrantmptoksA=\toks15
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+03.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen141
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen142
+\CLASSINFOnormalsizeunitybaselineskip=\dimen143
+\IEEEnormaljot=\dimen144
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen145
+\IEEEquantizedlengthdiff=\dimen146
+\IEEEquantizedtextheightdiff=\dimen147
+\IEEEilabelindentA=\dimen148
+\IEEEilabelindentB=\dimen149
+\IEEEilabelindent=\dimen150
+\IEEEelabelindent=\dimen151
+\IEEEdlabelindent=\dimen152
+\IEEElabelindent=\dimen153
+\IEEEiednormlabelsep=\dimen154
+\IEEEiedmathlabelsep=\dimen155
+\IEEEiedtopsep=\skip47
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@IEEEsubequation=\count184
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count185
+\c@table=\count186
+\@IEEEeqnnumcols=\count187
+\@IEEEeqncolcnt=\count188
+\@IEEEsubeqnnumrollback=\count189
+\@IEEEquantizeheightA=\dimen156
+\@IEEEquantizeheightB=\dimen157
+\@IEEEquantizeheightC=\dimen158
+\@IEEEquantizeprevdepth=\dimen159
+\@IEEEquantizemultiple=\count190
+\@IEEEquantizeboxA=\box47
+\@IEEEtmpitemindent=\dimen160
+\IEEEPARstartletwidth=\dimen161
+\c@IEEEbiography=\count191
+\@IEEEtranrubishbin=\box48
+) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks16
+\labelindent=\skip50
+\enit@outerparindent=\dimen162
+\enit@toks=\toks17
+\enit@inbox=\box49
+\enit@count@id=\count192
+\enitdp@description=\count193
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box50
+)
+(./plantilla.aux
+
+LaTeX Warning: Label `f1' multiply defined.
+
+
+LaTeX Warning: Label `f1' multiply defined.
+
+
+LaTeX Warning: Label `f1' multiply defined.
+
+
+LaTeX Warning: Label `f1' multiply defined.
+
+
+LaTeX Warning: Label `f4' multiply defined.
+
+
+LaTeX Warning: Label `T4' multiply defined.
+
+
+LaTeX Warning: Label `T4' multiply defined.
+
+
+LaTeX Warning: Label `T4' multiply defined.
+
+
+LaTeX Warning: Label `T4' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:Monteria' multiply defined.
+
+)
+\openout1 = `plantilla.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+
+-- Lines per column: 58 (exact).
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen165
+\scratchbox=\box51
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen166
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 77.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 77.
+
+Underfull \hbox (badness 3128) in paragraph at lines 84--86
+[]\OT1/ptm/m/n/10 Dentro de este lab-o-ra-to-rio tra-ba-jare-mos el tema de
+ []
+
+<img/eq1.png, id=1, 187.70125pt x 60.225pt>
+File: img/eq1.png Graphic file (type png)
+<use img/eq1.png>
+Package pdftex.def Info: img/eq1.png  used on input line 95.
+(pdftex.def)             Requested size: 85.35826pt x 27.3877pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<img/fig1.png, id=3, 691.83469pt x 281.55188pt>
+File: img/fig1.png Graphic file (type png)
+<use img/fig1.png>
+Package pdftex.def Info: img/fig1.png  used on input line 104.
+(pdftex.def)             Requested size: 284.52756pt x 115.79358pt.
+
+Overfull \hbox (32.52756pt too wide) in paragraph at lines 104--105
+ [] 
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+05.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<img/fig2.png, id=4, 699.61375pt x 303.1325pt>
+File: img/fig2.png Graphic file (type png)
+<use img/fig2.png>
+Package pdftex.def Info: img/fig2.png  used on input line 112.
+(pdftex.def)             Requested size: 227.62204pt x 98.62328pt.
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./img/eq1.png> <./img/fig1.png> <./img/fig2.png>]
+<img/eq2.png, id=17, 165.61874pt x 74.2775pt>
+File: img/eq2.png Graphic file (type png)
+<use img/eq2.png>
+Package pdftex.def Info: img/eq2.png  used on input line 125.
+(pdftex.def)             Requested size: 85.35826pt x 38.2811pt.
+
+Underfull \hbox (badness 1383) in paragraph at lines 138--139
+[]\OT1/ptm/m/n/10 Poder cal-cu-lar ca-paci-dades calor[]^^Pficas y calores es-
+ []
+
+<img/agua.jpeg, id=18, 1024.82875pt x 1284.8pt>
+File: img/agua.jpeg Graphic file (type jpg)
+<use img/agua.jpeg>
+Package pdftex.def Info: img/agua.jpeg  used on input line 151.
+(pdftex.def)             Requested size: 85.35826pt x 107.00105pt.
+<img/calorimetro.jpeg, id=19, 627.34375pt x 1284.8pt>
+File: img/calorimetro.jpeg Graphic file (type jpg)
+<use img/calorimetro.jpeg>
+Package pdftex.def Info: img/calorimetro.jpeg  used on input line 161.
+(pdftex.def)             Requested size: 85.35826pt x 174.81282pt.
+<img/termometro.jpeg, id=20, 642.4pt x 1284.8pt>
+File: img/termometro.jpeg Graphic file (type jpg)
+<use img/termometro.jpeg>
+Package pdftex.def Info: img/termometro.jpeg  used on input line 171.
+(pdftex.def)             Requested size: 85.35826pt x 170.7155pt.
+<img/pesa.jpeg, id=21, 1284.8pt x 504.88625pt>
+File: img/pesa.jpeg Graphic file (type jpg)
+<use img/pesa.jpeg>
+Package pdftex.def Info: img/pesa.jpeg  used on input line 181.
+(pdftex.def)             Requested size: 170.71652pt x 67.08585pt.
+[2 <./img/eq2.png> <./img/agua.jpeg> <./img/calorimetro.jpeg> <./img/termometro
+.jpeg> <./img/pesa.jpeg>]
+<img/mechero.jpg, id=26, 95.5935pt x 128.772pt>
+File: img/mechero.jpg Graphic file (type jpg)
+<use img/mechero.jpg>
+Package pdftex.def Info: img/mechero.jpg  used on input line 191.
+(pdftex.def)             Requested size: 85.35826pt x 114.99182pt.
+<img/montaje.jpeg, id=27, 842.14626pt x 1284.8pt>
+File: img/montaje.jpeg Graphic file (type jpg)
+<use img/montaje.jpeg>
+Package pdftex.def Info: img/montaje.jpeg  used on input line 204.
+(pdftex.def)             Requested size: 170.71652pt x 260.44504pt.
+<img/ans1.png, id=28, 449.68pt x 304.13625pt>
+File: img/ans1.png Graphic file (type png)
+<use img/ans1.png>
+Package pdftex.def Info: img/ans1.png  used on input line 228.
+(pdftex.def)             Requested size: 227.62204pt x 153.95189pt.
+<img/ans11.png, id=29, 145.54375pt x 25.09375pt>
+File: img/ans11.png Graphic file (type png)
+<use img/ans11.png>
+Package pdftex.def Info: img/ans11.png  used on input line 234.
+(pdftex.def)             Requested size: 142.26378pt x 24.53004pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./img/mechero.jpg> <./img/montaje.jpeg> <./img/ans1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
+ \OT1/ptm/m/it/10 B. Ex-per-i-mento 2: Hal-lar el calor es-pec[]^^Pfico del
+ []
+
+<img/grafica.jpg, id=36, 562.1pt x 421.575pt>
+File: img/grafica.jpg Graphic file (type jpg)
+<use img/grafica.jpg>
+Package pdftex.def Info: img/grafica.jpg  used on input line 250.
+(pdftex.def)             Requested size: 199.16928pt x 149.3739pt.
+<img/ans2.png, id=37, 509.905pt x 292.09125pt>
+File: img/ans2.png Graphic file (type png)
+<use img/ans2.png>
+Package pdftex.def Info: img/ans2.png  used on input line 261.
+(pdftex.def)             Requested size: 227.62204pt x 130.39246pt.
+<img/ans22.png, id=38, 214.8025pt x 23.08624pt>
+File: img/ans22.png Graphic file (type png)
+<use img/ans22.png>
+Package pdftex.def Info: img/ans22.png  used on input line 267.
+(pdftex.def)             Requested size: 199.16928pt x 21.4062pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 272--273
+[]\OT1/ptm/m/n/10 Finalmente ob-tu-vi-mos que la ca-paci-dad calor[]^^Pfica del
+
+ []
+
+[4 <./img/ans11.png> <./img/grafica.jpg> <./img/ans2.png> <./img/ans22.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
+[]\OT1/ptm/m/n/8 Martin T. y Ser-rano A. (s.f) calor. Re-cu-per-ado de:
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 310.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 310.
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
+[]\OT1/ptm/m/n/8 Mechero: $\OML/cmm/m/it/8 https \OT1/cmr/m/n/8 : \OML/cmm/m/it
+/8 ==assets:fishersci:com=TFS \OMS/cmsy/m/n/8 ^^@
+ []
+
+[5
+
+] (./plantilla.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2987 strings out of 479294
+ 51195 string characters out of 5869570
+ 340852 words of memory out of 5000000
+ 20145 multiletter control sequences out of 15000+600000
+ 439228 words of font info for 87 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 72i,7n,78p,1160b,360s stack positions out of 5000i,500n,10000p,200000b,200000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/urw/times/utmri8a.pfb>
+Output written on plantilla.pdf (5 pages, 858750 bytes).
+PDF statistics:
+ 85 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+
